@@ -2,6 +2,9 @@
 
 A PyTorch implementation of **Image-to-Image Translation with Conditional Adversarial Networks** ([Isola et al., CVPR 2017](https://arxiv.org/abs/1611.07004)), applied to the **anime sketch-to-colour** task: given a black-and-white sketch of an anime character, the model learns to produce a plausible full-colour version.
 
+<img width="729" height="392" alt="image" src="https://github.com/user-attachments/assets/21237901-d13e-49f2-b6a9-1c540ce50410" />
+
+
 | Item | Detail |
 |---|---|
 | **Paper** | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) (Isola et al., 2017) |
